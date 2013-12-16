@@ -1,0 +1,13 @@
+$foreground: #ececec;
+$background: #111;
+$accent: rgb(255,30,30);
+
+$transition-duration: 150ms;
+
+@mixin transition {
+	-webkit-transition: all $transition-duration ease-out;
+	-moz-transition: all $transition-duration ease-out;
+	-ms-transition: all $transition-duration ease-out;
+	-o-transition: all $transition-duration ease-out;
+	transition: all $transition-duration ease-out;
+}

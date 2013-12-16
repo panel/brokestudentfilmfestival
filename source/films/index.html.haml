@@ -1,0 +1,25 @@
+---
+title: Films - Broke Student Film Festival
+layout: splash
+---
+
+.jumbotron#films
+	.container
+		.heading.row
+			%h1.col-sm-8 The Films
+
+		.body.row
+			- data.films.each do |film|
+				.col-xs-6.col-md-3
+					.thumb
+						= link_to "/films/#{film.title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}" do
+							= image_tag film.thumbnail, :width => '100%'
+						.caption
+							%h4
+								= film.title
+							%p
+								= "A Film By #{film.author}"
+								%br/
+								= film.source
+
+

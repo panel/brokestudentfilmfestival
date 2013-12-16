@@ -1,0 +1,30 @@
+#films {
+	.thumb {
+		position: relative;
+		margin: 0.5em inherit;
+	}
+	.caption {
+
+		opacity: 0;
+		background: rgb(20, 20, 20);
+		background: rgba(20, 20, 20, .5);
+		padding: 0.5em;
+
+		height: 50%;
+		width: 100%;
+		font-size: 14px;
+		position: absolute;
+		bottom: 0px;
+
+		li {
+			margin: 0;
+			padding: 0;
+		}
+	}
+
+	.thumb:hover .caption {
+		@include transition;
+		opacity: 1;
+		display: block;
+	}
+}
