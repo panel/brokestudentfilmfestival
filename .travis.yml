@@ -4,5 +4,4 @@ install:
 - bundle install
 script: middleman build; middleman s3_sync
 env:
-  - secure: xeEyXdv9TPWO+azHGINBN03C1S74UUePc4ntEvs3PO1BFRKFXpAr1C/+bdyFPYRfw06Wc1ShEygPm1youWi6ZIMIbFPouCIc8KVnuv7mR2XZ7Q4sJYR4SEW/hO/Htlz6BwBgF7vjYHTHSXMd2t1VAMrsmjuQ+sBrypgv2wO+FCQ=
-  - secure: orV4RWfyfjpIpHsj+jK13NgCX/WVKW2rRXLcgHz7INJM51uNYoHv9o9wPlEw2KSDq5qSzEIT30nDUmaIxiPaQex5T6mOrtOREvkt38EYwpjEREHDTdS9HmdYAq0U3rxLosALOibWfpRIoFyyVMdQAouQfqUUTwRhiZ0PAu0F3PA=
+  secure: kHJGdci0WivzqALt8zbrWbeGTAHaTlK11LhSDcCUK0nLTCwcOBKgur1MUCNiQNepVDOKFTQAf5ZIbdLXkAzlk5fcjrz7rIOZw39JN0F21d861kfzQ+malAhpBvzRoOuufKuhNivbBjUsDQtUUHqvy5tt1p4SDw/xVr6fxOY9Nks=
