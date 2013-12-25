@@ -1,7 +1,7 @@
 *.rbc
 *.sassc
 .sass-cache
-.s3_sync.yml
+.s3_sync
 capybara-*.html
 .rspec
 .rvmrc
