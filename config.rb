@@ -56,6 +56,10 @@ activate :s3_sync do |s3_sync|
   s3_sync.bucket = 'panel.bsff'
 end
 
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-46644388-1'
+end
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper

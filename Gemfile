@@ -10,3 +10,4 @@ gem "middleman-livereload", "~> 3.1.0", :group => :development
 
 gem 'haml'
 gem 'middleman-s3_sync'
+gem 'middleman-google-analytics'
