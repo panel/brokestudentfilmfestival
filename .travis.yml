@@ -2,9 +2,7 @@ rvm:
 - 2.0.0
 install:
 - bundle install
-script: "middleman build; middleman s3_sync"
+script: middleman build; middleman s3_sync
 env:
-  AWS_ACCESS_KEY_ID:
-    secure: mr69TFIi8ASx0U6fW7Hv+dtAoRN/roFcKcUJ7w80qIvdeX14+NM9ORMC71wzqW3G0qBLHZz0LK+dKBEvG+C86bBaPci6DWDOWtV+QATQ0RIdvX1+RDG0F8bZ/OKIoW/s8Cz2m9djM64fRQBJ4pUo2olIy3SaA0drg3mW0rFINrM=
-  AWS_SECRET_ACCESS_KEY:
-    secure: fiDmzAtxCfJyeL2SHgi7cvWkknvJOCSeOaWI4b1oyLFDN0d4nsF7Be0kuwGTJCIBi4Wbuirea+ECWSBRltG3qJ3n0QI28DKuuaRs+PznWL7DxJJ8z9w5oxHFJmrBx/6qJkreeof7E3yk+fuWpCw/L6RAeHiWjXaWDTpTRCQrFA0=
+  - secure: xeEyXdv9TPWO+azHGINBN03C1S74UUePc4ntEvs3PO1BFRKFXpAr1C/+bdyFPYRfw06Wc1ShEygPm1youWi6ZIMIbFPouCIc8KVnuv7mR2XZ7Q4sJYR4SEW/hO/Htlz6BwBgF7vjYHTHSXMd2t1VAMrsmjuQ+sBrypgv2wO+FCQ=
+  - secure: orV4RWfyfjpIpHsj+jK13NgCX/WVKW2rRXLcgHz7INJM51uNYoHv9o9wPlEw2KSDq5qSzEIT30nDUmaIxiPaQex5T6mOrtOREvkt38EYwpjEREHDTdS9HmdYAq0U3rxLosALOibWfpRIoFyyVMdQAouQfqUUTwRhiZ0PAu0F3PA=
