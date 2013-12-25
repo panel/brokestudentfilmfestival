@@ -1,12 +1,9 @@
 ---
-jumbotron:
-  partial: partials/jumbotron/contribute.haml
-  show: true
 layout: layout
-title: "Contribute - Broke Student Film Festival"
+title: "Rules & Regulations - Broke Student Film Festival"
 ---
 
-## Contribute
+## Rules & Regulations
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis diam erat, congue et lacus ut, interdum volutpat leo. Donec auctor venenatis pharetra. Morbi pellentesque consectetur lorem at cursus. Maecenas risus neque, elementum a tristique eget, vestibulum sed lectus. Nulla quam nisl, mattis ultricies nunc et, luctus ultrices risus. Mauris et nunc sit amet orci eleifend auctor vitae at ipsum. Proin consectetur sapien sed fringilla placerat. In sollicitudin luctus dolor eget lobortis. Vivamus justo massa, vehicula sed felis consectetur, elementum viverra leo. In in consectetur magna. Donec vitae tellus non ante commodo dictum. Quisque tristique nec libero eu ultrices. Nullam id suscipit magna. Donec tincidunt ipsum ligula, non viverra eros sollicitudin non. Maecenas feugiat nec quam sagittis imperdiet.
 

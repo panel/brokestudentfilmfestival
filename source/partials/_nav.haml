@@ -1,49 +1,50 @@
-%nav.navbar.navbar-inverse{:role =>"navigation"}
-  %div#top-nav.justified
-    %ul.nav.navbar-nav
-      %li
-        = link_to '/' do
-          = image_tag 'bsff-logo-100x100.png'
-      %li.dropdown
-        %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
-          Apply Now!
-          %b.caret
-        %ul.dropdown-menu
-          %li
-            =link_to 'Application', '/register/application/'
-          %li
-            =link_to 'Rules and Regulations', '/register/rules/'
-      %li.dropdown
-        %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
-          Contribute
-          %b.caret
-        %ul.dropdown-menu
-          %li
-            =link_to 'Donate', '/contribute/donate/'
-          %li
-            =link_to 'Sponsor', '/contribute/sponsor/'
-          %li
-            =link_to 'Volunteer', '/contribute/volunteer/'
-      %li.dropdown
-        %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
-          About
-          %b.caret
-        %ul.dropdown-menu
-          %li
-            =link_to 'Contact Us', '/about/contact/'
-          %li
-            =link_to 'Sponsors', '/about/sponsors/'
-          %li
-            =link_to 'Past Festivals', '/about/history/'
-          %li
-            =link_to 'Past IBSFF Winners', '/about/winners/'
-          %li
-            =link_to 'IBSFF Staff', '/about/staff/'
-      %li
-        =link_to 'Store', '/store/'
-      %li
-        =link_to 'Juried Awards', '/about/awards/'
-      %li
-        =link_to '14-Day Challenge', '/fourteen/'
-      %li
-        =link_to 'The Films', '/films/'
+#nav-holder
+  %nav.container.navbar.navbar-inverse{:role =>"navigation"}
+    %div#top-nav.justified
+      %ul.nav.navbar-nav
+        %li
+          = link_to '/' do
+            = image_tag 'bsff-logo-100x100.png'
+        %li.dropdown
+          %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
+            Apply Now!
+            %b.caret
+          %ul.dropdown-menu
+            %li
+              =link_to 'Application', '/register/application/'
+            %li
+              =link_to 'Rules and Regulations', '/register/rules/'
+        %li.dropdown
+          %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
+            Contribute
+            %b.caret
+          %ul.dropdown-menu
+            %li
+              =link_to 'Donate', '/contribute/donate/'
+            %li
+              =link_to 'Sponsor', '/contribute/sponsor/'
+            %li
+              =link_to 'Volunteer', '/contribute/volunteer/'
+        %li.dropdown
+          %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
+            About
+            %b.caret
+          %ul.dropdown-menu
+            %li
+              =link_to 'Contact Us', '/about/contact/'
+            %li
+              =link_to 'Sponsors', '/about/sponsors/'
+            %li
+              =link_to 'Past Festivals', '/about/history/'
+            %li
+              =link_to 'Past IBSFF Winners', '/about/winners/'
+            %li
+              =link_to 'IBSFF Staff', '/about/staff/'
+        %li
+          =link_to 'Store', '/store/'
+        %li
+          =link_to 'Juried Awards', '/about/awards/'
+        %li
+          =link_to '14-Day Challenge', '/fourteen/'
+        %li
+          =link_to 'The Films', '/films/'

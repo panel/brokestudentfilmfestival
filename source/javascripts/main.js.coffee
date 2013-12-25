@@ -1,4 +1,4 @@
 # Load all Bootstrap JavaScripts
-#= require bootstrap
+#= require_tree ./vendor
 #
-#= require_tree .
+#= require_tree ./partials
