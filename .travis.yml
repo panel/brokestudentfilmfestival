@@ -1,4 +1,14 @@
 rvm:
 - 2.0.0
-env:
-  secure: GT+apq58El6Xgvx+iq9r8aehtkOfgMKnpnmeTeiCBLnNKXcoS5kgPLUd9MUGg16A+G4cDaQvGLeXZxC3uSLIRp7DEe28Ol+9iWlOPOi8NKNjJ2MLCRmmCA9AL2IwV/zU6rYNpfa5cIuYWsxfN/NApzS6wkofz5Dozlq65COFmck=
+install:
+- bundle install
+script: middleman build
+deploy:
+  provider: s3
+  access_key_id:
+    secure: eWRYD0FlW8DjVPq5erN3gj0M8QJJ4nD1Bx7v+zlDJbzNtK+0PEAazVjjL/tqVuH3ia/PeDlqgPWgAf1m6OL2j7j2Zw9c+3ao+G1sy/hpKeXToVybWoKjR8dm6wuGQRI/JTyISc9euGJePPxSUAqhlWGwAkqbBzXUj064lTrv0X8=
+  secret_access_key:
+    secure: UWoesBqVxF14GerVHLEuW6QjdTCbXtpQN1rfmVr/4JOjhnIc9LxYPoBGwW0vnzFZZAlS/xyStGFgFa+J4gE/14tI4cJfwY+MWBK3byn4GCVoxQJ6YVHHxETsH6sfEOg2jyjIsUY5/EJv/dtuF9iXGjkx5OHmvuxXohq5VjMyHok=
+  bucket: panel.bsff
+  skip_cleanup: true
+  local-dir: build
