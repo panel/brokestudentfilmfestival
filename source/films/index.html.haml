@@ -12,7 +12,7 @@ layout: splash
 			- data.films.each do |film|
 				.col-xs-6.col-md-3
 					.thumb
-						= link_to "/films/#{film.title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}" do
+						= link_to "/films/#{film.title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}.html" do
 							= image_tag film.thumbnail, :width => '100%'
 						.caption
 							%h4

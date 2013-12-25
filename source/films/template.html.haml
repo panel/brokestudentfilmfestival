@@ -1,0 +1,26 @@
+---
+title: Broke Student Film
+layout: splash
+---
+
+.container
+	%header
+
+		/ %ul.nav.nav-pills
+		/ 	%li.logo
+		/ 		= link_to '/' do
+		/ 			= image_tag 'bsff-logo-100x100.png', :alt => 'Broke Student Film Festival'
+		/ 	%li.active
+		/ 		= link_to 'Films', '/films/'
+
+.jumbotron#film
+	= image_tag film.image
+	.overlay.text-right
+		%h1
+			= film.title;
+		%h2
+			= film.author;
+			%small
+				= film.source
+.container
+	%h2 About This Film

@@ -13,74 +13,25 @@
         <![endif]-->
 
     %link{:href=>"//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css", :rel=>"stylesheet"}
+    %link{:href=>"//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css", :rel=>"stylesheet"}
     %link{href: '/stylesheets/style.css', type: 'text/css', rel: 'stylesheet' }
 
   %body
 
-    %nav.navbar{:role =>"navigation"}
-      %div.collapse.navbar-collapse#top-nav
-        %ul.nav.navbar-nav
-          %li.dropdown
-            %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
-              Apply Now!
-              %b.caret
-            %ul.dropdown-menu
-              %li
-                =link_to 'Application', '/application/'
-              %li
-                =link_to 'Rules and Regulations', '/application/rules/'
-          %li.dropdown
-            %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
-              Contribute
-              %b.caret
-            %ul.dropdown-menu
-              %li
-                =link_to 'Donate', '/contribute/donate/'
-              %li
-                =link_to 'Sponsor', '/contribute/sponsor/'
-              %li
-                =link_to 'Volunteer', '/contribute/volunteer/'
-          %li.dropdown
-            %a.dropdown-toggle{ :href => '#', 'data-toggle' => "dropdown" }
-              About
-              %b.caret
-            %ul.dropdown-menu
-              %li
-                =link_to 'Contact Us', '/about/contact/'
-              %li
-                =link_to 'Sponsors', '/about/sponsors/'
-              %li
-                =link_to 'Past Festivals', '/about/history/'
-              %li
-                =link_to 'Past IBSFF Winners', '/about/winners/'
-              %li
-                =link_to 'IBSFF Staff', '/about/staff/'
-          %li
-            =link_to 'Store', '/store/'
-          %li
-            =link_to 'Juried Awards', '/awards/'
-          %li
-            =link_to '14-Day Challenge', '/fourteen-day-challenge/'
+    = partial '/partials/nav'
 
-    .header.row
-      #logo.col-sm-2.col-sm-offset-1
-        .row
-          .logo-panel.col-sm-6
-            =image_tag 'logo_panel_01.png'
-          .logo-panel.col-sm-6
-            =image_tag 'logo_panel_02.png'
-        .row
-          .logo-panel.col-sm-6
-            =image_tag 'logo_panel_03.png'
-          .logo-panel.col-sm-6
-            =image_tag 'logo_panel_04.png'
-      .title.col-sm-9
-        %h2 Broke Student Film Festival
-        %h3 April 4th-6th, 2014
-
+    - if( current_page.data.jumbotron && current_page.data.jumbotron.show )
+      .jumbotron
+        .container
+          = partial current_page.data.jumbotron.partial
 
     .container
-      = yield
+      .content.col-sm-8
+        = yield
+      .aside.col-sm-4
+        = partial 'partials/sidebar'
+
+    = partial 'partials/footer'
 
     // Placed at the end of the document so the pages load faster
     %script{type: 'text/javascript', src: 'http://code.jquery.com/jquery.js'}

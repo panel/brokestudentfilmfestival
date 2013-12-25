@@ -1,35 +1,12 @@
-3
+---
+title: Broke Student Film Festival
+layout: splash
+---
 
 .jumbotron
   .container
 
-    #logo.col-sm-4
-      .row
-        .logo-panel
-          = image_tag 'logo/logo_panel_01.png', 'data-order' => 0, 'data-next' => 1, :class => 'active'
-          = image_tag 'logo/01.jpg', 'data-order' => 1, 'data-next' => 0
-          = image_tag 'logo/02.jpg', 'data-order' => 2, 'data-next' => 0
-          = image_tag 'logo/03.jpg', 'data-order' => 3, 'data-next' => 0
-          = image_tag 'logo/04.jpg', 'data-order' => 4, 'data-next' => 0
-        .logo-panel
-          = image_tag 'logo/logo_panel_02.png', 'data-order' => 0, 'data-next' => 1, :class => 'active'
-          = image_tag 'logo/05.jpg', 'data-order' => 1, 'data-next' => 0
-          = image_tag 'logo/06.jpg', 'data-order' => 2, 'data-next' => 0
-          = image_tag 'logo/07.jpg', 'data-order' => 3, 'data-next' => 0
-          = image_tag 'logo/08.jpg', 'data-order' => 4, 'data-next' => 0
-      .row
-        .logo-panel
-          = image_tag 'logo/logo_panel_03.png', 'data-order' => 0, 'data-next' => 1, :class => 'active'
-          = image_tag 'logo/09.jpg', 'data-order' => 1, 'data-next' => 0
-          = image_tag 'logo/10.jpg', 'data-order' => 2, 'data-next' => 0
-          = image_tag 'logo/11.jpg', 'data-order' => 3, 'data-next' => 0
-          = image_tag 'logo/12.jpg', 'data-order' => 4, 'data-next' => 0
-        .logo-panel
-          = image_tag 'logo/logo_panel_04.png', 'data-order' => 0, 'data-next' => 1, :class => 'active'
-          = image_tag 'logo/13.jpg', 'data-order' => 1, 'data-next' => 0
-          = image_tag 'logo/14.jpg', 'data-order' => 2, 'data-next' => 0
-          = image_tag 'logo/15.jpg', 'data-order' => 3, 'data-next' => 0
-          = image_tag 'logo/16.jpg', 'data-order' => 4, 'data-next' => 0
+    = partial 'partials/logo_dynamic'
 
     .col-sm-7.col-sm-offset-1
       %h1
@@ -44,10 +21,6 @@
         %a.btn.btn-primary.btn-lg.col-sm-3.col-sm-offset-1{:href => '/contribute/'} Contribute
         %a.btn.btn-primary.btn-lg.col-sm-3.col-sm-offset-1{:href => '/films/'} Films
 .container.content
-  / %h2.text-center
-  /   International Broke Student Film Fesitval 2014
-
-  / %hr/
 
   .row
     .col-sm-8.main-content
@@ -74,93 +47,37 @@
         %p
           %strong The 14-Day Film Challenge
           is a fun and rewarding way to test and discover your creative and technical chops.
-          = link_to 'Team sign-ups begin on January 1st!', '/fourteen-day/'
+          = link_to 'Team sign-ups begin on January 1st!', '/fourteen/'
+
+      %hr/
+
+      .volunteer
+        %h3 We Need You!
+        %p
+          The
+          %strong Broke Student Film Festival
+          is only possible due to the army of volunteers that come together each year to create a successful event. Think you have what it takes to help make the dreams of student film makers come true?
+          = link_to 'Sign up to volunteer!', '/contribute/volunteer'
+
+      %hr/
+
+      .sponsor
+        %h3 See Those Logos Down There?
+        %p
+          Those are the amazing groups that work with the
+          %strong Broke Student Film Festival
+          to create an amazing experience for student film makers and people who love cutting edge film.
+        %p
+          These groups get in place advertising during the festival and their logos displayed on the homepage all year.
+          = link_to 'Sign up to sponsor!', '/contribute/sponsor'
 
 
 
 
     .col-sm-4.right-rail
-      .call-out.panel.panel-default
-        .panel-heading
-          %h3.panel-title Support IBSFF
-        .panel-body
-          %p
-            %strong The Broke Student Film Festival
-            does not exist to make money. We exist only to showcase great student films! It is only with your generous contributions and support that we can continue to improve and expand.
-          %ul.list-inline.row
-            %li.col-sm-3.col-sm-offset-1
-              = link_to 'Sponsor', '/contribute/sponsor'
-            %li.col-sm-3
-              = link_to 'Donate', '/contribute/donate'
-            %li.col-sm-3
-              = link_to 'Volunteer', '/contribute/volunteer'
-      .social
-        = partial 'partials/social'
+      = partial 'partials/sidebar'
 
-      .call-for-entries.panel.panel-default
-        .panel-heading
-          %h3.panel-title
-            Call For Entries
-        .panel-body
-          %p
-            Call for entries starts January 1st, 2014.
-            %strong The Broke Student Film Festival
-            will be featuring many different categories in 2014:
-          %ul
-            %li 14-Day Challenge
-            %li Films in Exhibition
-            %li The Inaugural IBSFF Student Films
-
-          = link_to 'Click here to see what category is right for you!', '/categories/'
-
-%footer
-  .container
-    .row
-      .col-sm-3
-        %h4 About the 2014 BSFF
-        %ul.list-unstyled
-          %li
-            = link_to 'Something', '/some/thing'
-          %li
-            = link_to 'Something', '/some/thing'
-          %li
-            = link_to 'Something', '/some/thing'
-      .col-sm-3
-        %h4 14-Day Challenge
-        %ul.list-unstyled
-          %li About
-          %li Application
-          %li Rules
-      .col-sm-3
-        %h4 Support the IBSFF
-        %ul.list-unstyled
-          %li
-            = link_to 'Contact', '/some/thing'
-          %li
-            = link_to 'About Us', '/some/thing'
-          %li
-            = link_to 'Past Winners', '/some/thing'
-          %li
-            = link_to 'Staff', '/some/thing'
-      .col-sm-3
-        %h4 About Us
-        %ul.list-unstyled
-          %li
-            = link_to 'Contact', '/some/thing'
-          %li
-            = link_to 'About Us', '/some/thing'
-          %li
-            = link_to 'Past Winners', '/some/thing'
-          %li
-            = link_to 'Staff', '/some/thing'
-    .row
-      %h4.text-center Sponsored By
-      %p Sponsor images...
-    .row.colophon
-      %p.text-center
-        &copy; 2014 International Broke Student Film Festival
-        /
-        = link_to 'email: info@brokestudentfilmfestival.com', 'mailto: info@brokestudentfilmfestival'
+= partial 'partials/footer'
 
 
 

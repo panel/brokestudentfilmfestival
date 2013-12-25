@@ -1,6 +1,7 @@
 *.rbc
 *.sassc
 .sass-cache
+.s3_sync.yml
 capybara-*.html
 .rspec
 .rvmrc
@@ -17,3 +18,4 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
+/build/**/*

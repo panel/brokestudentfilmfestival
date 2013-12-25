@@ -52,6 +52,10 @@ set :file_watcher_ignore, [
 ]
 activate :livereload
 
+activate :s3_sync do |s3_sync|
+  s3_sync.bucket = 'panel.bsff'
+end
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper
@@ -81,4 +85,8 @@ configure :build do
 
   # Or use a different image path
   # set :http_path, "/Content/images/"
+end
+
+data.films.each do |film|
+  proxy "/films/#{film.title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')}.html", "/films/template.html", :locals => { :film => film }, :ignore => true
 end

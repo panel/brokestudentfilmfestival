@@ -68,11 +68,17 @@ img {
 }
 
 .navbar {
-	background: white;
+
 	border-radius: 0;
 	a:link{
 		color:$accent;
 	}
+	img {
+		width: 40px;
+		margin-top: -10px;
+	}
+	margin-bottom: 0;
+	background: $background;
 }
 
 .social {
@@ -118,3 +124,8 @@ img {
 	}
 }
 
+h1, h2, h3 {
+	&:first-child {
+		margin-top: 0;
+	}
+}

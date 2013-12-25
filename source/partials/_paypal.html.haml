@@ -1,0 +1,6 @@
+%form{:method => 'post', :action => 'https://www.paypal.com/cgi-bin/webscr'}
+	%input{:type => 'hidden', :name => 'cmd', :value => '_s-xclick'}
+	%input{:type => 'hidden', :name => 'hosted_button_id', :value => 'MQMPVY4WSBTJ8'}
+	%input{:type => 'hidden', :src => 'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif', :name => 'submit', :value => ''}
+	%input.btn.btn-lg.btn-primary{:type => 'submit', :value => 'Donate Now!'}
+	%img{:src => 'https://www.paypalobjects.com/en_US/i/scr/pixel.gif', :width => 1, :height => 1}
