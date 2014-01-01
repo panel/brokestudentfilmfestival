@@ -53,7 +53,7 @@ set :file_watcher_ignore, [
 activate :livereload
 
 activate :s3_sync do |s3_sync|
-  s3_sync.bucket = 'panel.bsff'
+  s3_sync.bucket = 'www.brokestudentfilmfestival.com'
 end
 
 activate :google_analytics do |ga|
