@@ -1,11 +1,8 @@
 ---
 layout: layout
 title: "Juried Awards - Broke Student Film Festival"
+published: true
 ---
 
 ## Juried Awards
 
-- List one
-  - Sub-detail
-  - Sub-deatail
-- List two
