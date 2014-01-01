@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Rules & Regulations - Broke Student Film Festival"
-published: true
+published: false
 ---
 
 ## Rules & Regulations
