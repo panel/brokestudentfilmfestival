@@ -1,7 +1,8 @@
 rvm:
 - 2.0.0
+cache: bundler
 install:
-- bundle install
+- bundle install --without development
 script: middleman build; middleman s3_sync
 env:
   secure: kHJGdci0WivzqALt8zbrWbeGTAHaTlK11LhSDcCUK0nLTCwcOBKgur1MUCNiQNepVDOKFTQAf5ZIbdLXkAzlk5fcjrz7rIOZw39JN0F21d861kfzQ+malAhpBvzRoOuufKuhNivbBjUsDQtUUHqvy5tt1p4SDw/xVr6fxOY9Nks=
