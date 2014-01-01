@@ -4,7 +4,7 @@ jumbotron:
   show: true
 layout: layout
 title: "Register - Broke Student Film Festival"
-published: false
+published: true
 ---
 
 ## Register
