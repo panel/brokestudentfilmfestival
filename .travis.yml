@@ -3,6 +3,6 @@ rvm:
 - 2.0.0
 bundler_args: --without development
 cache: bundler
-script: middleman build; middleman s3_sync
+script: vendor/bundle/middleman build; vendor/bundle/middleman s3_sync
 env:
   secure: kHJGdci0WivzqALt8zbrWbeGTAHaTlK11LhSDcCUK0nLTCwcOBKgur1MUCNiQNepVDOKFTQAf5ZIbdLXkAzlk5fcjrz7rIOZw39JN0F21d861kfzQ+malAhpBvzRoOuufKuhNivbBjUsDQtUUHqvy5tt1p4SDw/xVr6fxOY9Nks=
