@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Sponsors - Broke Student Film Festival"
-published: true
+published: false
 ---
 
 ## Offical Sponsors
