@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Juried Awards - Broke Student Film Festival"
-published: true
+published: false
 ---
 
 ## Juried Awards
