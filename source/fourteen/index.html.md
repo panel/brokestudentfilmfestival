@@ -4,7 +4,6 @@ title: "14 Day Challenge - Broke Student Film Festival"
 published: true
 ---
 
-
 ## Rules & Regulations
 **IBSFF 14-Day Film Challenge  | March 8 - 22nd |**
 _Team Sign ups start January 1st 2014_
