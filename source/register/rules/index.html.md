@@ -7,6 +7,7 @@ published: true
 ## Rules & Regulations
 
 RULES AND REGULATIONS
+
 A) Guidelines 	
 
 1. Students must include proof of student status at the time of production (i.e., copy of student ID, transcript, etc.). Sent to Info@brokestudentfilmfestival.com
