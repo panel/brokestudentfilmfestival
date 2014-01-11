@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Contact Us - Broke Student Film Festival"
-published: false
+published: true
 ---
 
 ## Contact Us
