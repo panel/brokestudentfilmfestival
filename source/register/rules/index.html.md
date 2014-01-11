@@ -34,4 +34,6 @@ Entries must be submitted online by March 22nd, 2014. Late deadline, March 23rd 
 **C) Judging & Selection**
 		
 Documentary, Short Subject, and Student Films are selected for Festival presentation by the Broke Student Film Festival Programming Committee. If a film is selected for screening, the Festival office will contact the entrant by phone or email.
-All other competitive film categories are judged before the Festival. All entrants will be notified at the official screening, April 6th 2014. All prizes and awards are final.
+All other competitive film categories are judged before the Festival. All entrants will be notified at the official screening, April 6th 2014. All prizes and awards are final. 
+
+Upon entry, all films are screened and approved by the International Broke Student Film Festival Selection Committee. Films are then screened by industry professionals in the International Broke Student Film Festival Judges screening at Lawrence Technical University in Southfield, Michigan. Films will be judged based on the following criteria: Cinematography, Screenwriting, Sound, Acting, and Originality. The ballots are then counted as a general score per judge and then the overall score is met. Some films may score the same overall score. In this instance, both films win the award. (IBSFF 2013 had two Best Screenwriting awards) All decisions are final.
