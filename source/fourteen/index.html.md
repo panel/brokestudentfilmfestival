@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "14 Day Challenge - Broke Student Film Festival"
-published: false
+published: true
 ---
 
 ## Rules & Regulations
