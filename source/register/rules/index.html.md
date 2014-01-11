@@ -8,7 +8,7 @@ published: true
 
 RULES AND REGULATIONS
 
-A) Guidelines 	
+**A) Guidelines**
 
 1. Students must include proof of student status at the time of production (i.e., copy of student ID, transcript, etc.). Sent to Info@brokestudentfilmfestival.com
 2. Films must be completed before the deadline March 22nd, 2014
@@ -25,12 +25,13 @@ A) Guidelines
 13. Films can be in HD or SD. The Broke Student Film Festival is not responsible for the look, pixelization, color or look of film. Entrants are responsible for the quality of the film.
 14. Entries will be required to supply three high resolution stills from the film and at least one high resolution photograph of the film's director. 
 15. Entrants grant The Broke Student Film Festival publicity materials and a video trailer (if available). Publicity and press materials will not be returned.
+16. **If under 18, Students must have parent permission.**
  
-B) Deadlines
+**B) Deadlines**
 	
 Entries must be submitted online by March 22nd, 2014. Late deadline, March 23rd entries may not to screened or judged. 	
 
-C) Judging & Selection	
+**C) Judging & Selection**
 		
 Documentary, Short Subject, and Student Films are selected for Festival presentation by the Broke Student Film Festival Programming Committee. If a film is selected for screening, the Festival office will contact the entrant by phone or email.
 All other competitive film categories are judged before the Festival. All entrants will be notified at the official screening, April 6th 2014. All prizes and awards are final.
