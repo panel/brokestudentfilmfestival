@@ -4,11 +4,6 @@ title: "14 Day Challenge - Broke Student Film Festival"
 published: true
 ---
 
-## 14 Day Challenge
-
-IBSFF 14-Day Film Challenge  | March 8 - 22nd | 
-
-Students from all around the world have 14 days to complete the best film in 14 days. Students will be given a Theme to complete their films. 
 
 ## Rules & Regulations
 **IBSFF 14-Day Film Challenge  | March 8 - 22nd |**
@@ -81,7 +76,7 @@ Before the finished film begins, the opening slate must read:
 
 **13. Team Leader**
 	
-    **Team Leaders MUST be a student and provide student ID upon signing up their team.**
+    **Team Leaders MUST be a student and provide student ID upon signing up their team. If under 18, team leaders must be represented by an adult.**
     
 
 Upon entry, all films are screened and approved by the International Broke Student Film Festival Selection Committee. Films are then screened by industry professionals in the  International Broke Student Film Festival Judges screening at Lawrence Technical University in Southfield, Michigan. Films will be judged based on the following criteria: Cinematography, Screenwriting, Sound, Acting, and Originality. The ballots are then counted as a general score per judge and then the overall score is met. Some films may score the same overall score. In this instance, both films win the award. (IBSFF 2013 had two Best Screenwriting awards) All decisions are final.
