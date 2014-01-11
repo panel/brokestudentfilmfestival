@@ -20,8 +20,16 @@ The IBSFF 14-Day Film Challenge will be held on the following dates: March 8th-2
 All development and creation of the film must take place during the official time period. Any work in  advance of the 2 week event is **prohibited.** 
 
  _Creative work includes:_
+ 
+- Writing the script
+- Costume/ Set Design
+- Filming
+- Sound
+- Editing
+- Rendering
+- Outputting Media
 
-Writing the script |  Costume/ Set Design | Filming | Sound | Editing | Rendering | Outputting Media
+
 
     
     
@@ -29,7 +37,14 @@ Writing the script |  Costume/ Set Design | Filming | Sound | Editing | Renderin
 **3. Pre-Production**
 The only development a student team leader can complete prior to the official time period is the following:
 
-Organizing crew | Organizing Cast | Equipment | Locations
+- Organizing crew 
+- Organizing Cast
+- Equipment
+- Locations
+- item
+- item
+
+
 
 **4. Footage**	
 All footage must be filmed during the official time period. No stock footage. No footage filmed created at any other time. Still photographs are permitted, but must have permission. Animation and special effects are permitted but must be made during the official time period.
@@ -57,10 +72,14 @@ Films must be the minimum of 5 minutes in duration, and the maximum of 14 minute
 
 **10. IBSFF Opening Slate**
 Before the finished film begins, the opening slate must read:
- 
- 
-5 seconds of black | The Team name | City or Country | Year | Theme | Line of Dialog | Prop | "This Film was made for the International Broke Student 14-Day Film Challenge 
-| 5 seconds of black
+
+- 5 seconds of black 
+- The Team name
+- City and Country 
+- Year
+- Them/ Line of Dialog/ Prop
+- "This Film was made for the International Broke Student 14-Day Film Challenge"
+- 5 seconds of black
 
 
 
@@ -70,9 +89,8 @@ Before the finished film begins, the opening slate must read:
 
 **12. Submitting Film**
 All films must be submitted via Brokestudentfilmfestival.com | 14-day challenge | Submit film
-
-Private Vimeo or Youtube link
-Must accept and fill out application 
+- Private Vimeo or Youtube link
+- Must accept and fill out application 
 
 
 **13. Team Leader**
