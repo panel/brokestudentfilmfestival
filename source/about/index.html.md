@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "About - Broke Student Film Festival"
-published: false
+published: true
 ---
 
 ## About the IBSFF
