@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Past Festivals - Broke Student Film Festival"
-published: false
+published: true
 ---
 
 # Past Festival Winners
