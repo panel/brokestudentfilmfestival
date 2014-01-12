@@ -67,7 +67,8 @@ Before the finished film begins, the opening slate must read:
 
 
 **12. Submitting Film**
-	All films must be submitted via Brokestudentfilmfestival.com | 14-day challenge | Submit film
+
+All films must be submitted via Brokestudentfilmfestival.com | 14-day challenge | Submit film
 
 	Private Vimeo or Youtube link
 	Must accept and fill out application 
@@ -75,7 +76,7 @@ Before the finished film begins, the opening slate must read:
 
 **13. Team Leader**
 	
-    **Team Leaders MUST be a student and provide student ID upon signing up their team.**
+   **Team Leaders MUST be a student and provide student ID upon signing up their team.**
     
     
     
