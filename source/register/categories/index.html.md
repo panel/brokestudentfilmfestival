@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Categories - Broke Student Film Festival"
-published: false
+published: true
 ---
 
 ## Categories
