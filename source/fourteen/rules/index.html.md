@@ -4,7 +4,9 @@ title: "Rules - 14 Day Challenge - Broke Student Film Festival"
 published: true
 ---
 
+
 ## Rules & Regulations
+
 **IBSFF 14-Day Film Challenge  | March 8 - 22nd |**
 _Team Sign ups start January 1st 2014_
 
@@ -19,8 +21,16 @@ The IBSFF 14-Day Film Challenge will be held on the following dates: March 8th-2
 All development and creation of the film must take place during the official time period. Any work in  advance of the 2 week event is **prohibited.** 
 
  _Creative work includes:_
+ 
+- Writing the script
+- Costume/ Set Design
+- Filming
+- Sound
+- Editing
+- Rendering
+- Outputting Media
 
-Writing the script |  Costume/ Set Design | Filming | Sound | Editing | Rendering | Outputting Media
+
 
     
     
@@ -28,13 +38,23 @@ Writing the script |  Costume/ Set Design | Filming | Sound | Editing | Renderin
 **3. Pre-Production**
 The only development a student team leader can complete prior to the official time period is the following:
 
-Organizing crew | Organizing Cast | Equipment | Locations
+- Organizing crew 
+- Organizing Cast
+- Equipment
+- Locations
+
+
+
 
 **4. Footage**	
 All footage must be filmed during the official time period. No stock footage. No footage filmed created at any other time. Still photographs are permitted, but must have permission. Animation and special effects are permitted but must be made during the official time period.
 
        
-**5. Required Element - Theme | Line of Dialog | Prop **
+**5. Required Element**
+- Theme
+- Line of Dialog
+- Prop
+
 Each participating team will be assigned required element that must be in its film, theme, line a dialog and prop.  The required theme will be up to interpretation of the filmmakers, but will be judged accordingly basied on the IBSFF Juding requirements. _See below_
 
         	   
@@ -56,9 +76,14 @@ Films must be the minimum of 5 minutes in duration, and the maximum of 14 minute
 
 **10. IBSFF Opening Slate**
 Before the finished film begins, the opening slate must read:
- 
- 
-5 seconds of black | The Team name | City or Country | Year | Theme | Line of Dialog | Prop | "This Film was made for the International Broke Student 14-Day Film Challenge | 5 seconds of black
+
+- 5 seconds of black 
+- The Team name
+- City and Country 
+- Year
+- Them/ Line of Dialog/ Prop
+- "This Film was made for the International Broke Student 14-Day Film Challenge"
+- 5 seconds of black
 
 
 
@@ -67,21 +92,33 @@ Before the finished film begins, the opening slate must read:
 
 
 **12. Submitting Film**
-
 All films must be submitted via Brokestudentfilmfestival.com | 14-day challenge | Submit film
-
-	Private Vimeo or Youtube link
-	Must accept and fill out application 
+- Private Vimeo or Youtube link
+- Must accept and fill out application 
 
 
 **13. Team Leader**
 	
-   **Team Leaders MUST be a student and provide student ID upon signing up their team.**
+   **Team Leaders MUST be a student and provide student ID upon signing up their team. If under 18, team leaders must be represented by an adult.**
     
-    
-    
- 
- 
- 
- 
+
 Upon entry, all films are screened and approved by the International Broke Student Film Festival Selection Committee. Films are then screened by industry professionals in the  International Broke Student Film Festival Judges screening at Lawrence Technical University in Southfield, Michigan. Films will be judged based on the following criteria: Cinematography, Screenwriting, Sound, Acting, and Originality. The ballots are then counted as a general score per judge and then the overall score is met. Some films may score the same overall score. In this instance, both films win the award. (IBSFF 2013 had two Best Screenwriting awards) All decisions are final.
+
+
+## Application
+ 
+<iframe src="https://docs.google.com/forms/d/1SD2uOwDDUX7fFhiTXeIMPgcGbf79FwbKoK9W_NRmbMI/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+    
+    
+
+
+
+            
+    
+    
+ 
+ 
+ 
+ 
