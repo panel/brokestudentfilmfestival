@@ -4,10 +4,10 @@ title: "Our Staff - Broke Student Film Festival"
 published: true
 ---
 
-## Staff
 
 
-**Kat Ruff**
+
+## **Kat Ruff**
 
 _BSFF Founder & Director_
 
@@ -17,7 +17,7 @@ Kat Ruff is an award winning film maker from Lawrence Technological University. 
 
 
 
-**Adam Nelson**
+## **Adam Nelson**
 
 _Vice President_
 
@@ -26,16 +26,10 @@ Adam studied Digital Video Production at Washtenaw Community College before taki
 Adam has competed in 3 national 48 Hour Film competitions in the Detroit area, including Persephone, which was screened at the Inaugural Broke Student Film Festival. For more on Adam’s work, his motion reel can be found on Vimeo.
 
 
-**Charles Kennedy, Jr.**
-
-_Selection Committee_
-
-
-Charles, hailing from Pontiac, MI studies Media Communication at Lawrence Tech University. Having an exclusive passion for live audio mixing, Charles turned his focus to filmmaking after participating in the 2011 International Go Green Film Challenge. With an outrageous imagination, and a creative eye filmmaking is his perfect outlet. Charles has competed in six film competitions including the inaugural Broke Student Film Festival, winning the best screenplay award for #Disconnected. #Disconnected also placed in the Top 15 in the 2012 International Go Green 48 Hour Film Challenge.To see more of Charles' work visit his YouTube channel 
 
 
 
-**Maddie Eudy**
+## **Maddie Eudy**
 
 _IBSFF Vice of Lawrence Technical University Chapter_
 
