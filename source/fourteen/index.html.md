@@ -41,8 +41,7 @@ The only development a student team leader can complete prior to the official ti
 - Organizing Cast
 - Equipment
 - Locations
-- item
-- item
+
 
 
 
@@ -50,7 +49,11 @@ The only development a student team leader can complete prior to the official ti
 All footage must be filmed during the official time period. No stock footage. No footage filmed created at any other time. Still photographs are permitted, but must have permission. Animation and special effects are permitted but must be made during the official time period.
 
        
-**5. Required Element - Theme | Line of Dialog | Prop **
+**5. Required Element**
+- Theme
+- Line of Dialog
+- Prop
+
 Each participating team will be assigned required element that must be in its film, theme, line a dialog and prop.  The required theme will be up to interpretation of the filmmakers, but will be judged accordingly basied on the IBSFF Juding requirements. _See below_
 
         	   
