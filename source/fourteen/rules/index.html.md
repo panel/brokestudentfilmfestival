@@ -4,7 +4,6 @@ title: "Rules - 14 Day Challenge - Broke Student Film Festival"
 published: true
 ---
 
-
 ## Rules & Regulations
 
 **IBSFF 14-Day Film Challenge  | March 8 - 22nd |**
@@ -54,6 +53,21 @@ All footage must be filmed during the official time period. No stock footage. No
 - Theme
 - Line of Dialog
 - Prop
+
+**5A. Genres:**
+- Comedy
+- Dark comedy
+- Romance
+- Thriller/Suspense
+- Buddy Film
+- Drama
+- Fantasy
+
+**5B. Theme**
+- To be annoucned March 8th
+
+**5B. Prop**
+- To be annoucned March 8th
 
 Each participating team will be assigned required element that must be in its film, theme, line a dialog and prop.  The required theme will be up to interpretation of the filmmakers, but will be judged accordingly basied on the IBSFF Juding requirements. _See below_
 
@@ -108,17 +122,3 @@ Upon entry, all films are screened and approved by the International Broke Stude
 ## Application
  
 <iframe src="https://docs.google.com/forms/d/1SD2uOwDDUX7fFhiTXeIMPgcGbf79FwbKoK9W_NRmbMI/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-
-    
-    
-
-
-
-            
-    
-    
- 
- 
- 
- 
