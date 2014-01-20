@@ -54,6 +54,22 @@ All footage must be filmed during the official time period. No stock footage. No
 - Line of Dialog
 - Prop
 
+**5A. Genres:**
+- Comedy
+- Dark comedy
+- Romance
+- Thriller/Suspense
+- Buddy Film
+- Drama
+- Fantasy
+
+**5B. Theme**
+- To be annoucned March 8th
+
+**5B. Prop**
+- To be annoucned March 8th
+
+
 Each participating team will be assigned required element that must be in its film, theme, line a dialog and prop.  The required theme will be up to interpretation of the filmmakers, but will be judged accordingly basied on the IBSFF Juding requirements. _See below_
 
         	   
