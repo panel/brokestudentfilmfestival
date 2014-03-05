@@ -19,6 +19,13 @@ If you would like more information regarding your contribution and how it will g
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFRqLWdaVnZhVlMyY3VVbUdhb3A1QXc6MA" class="row col-sm-12" height="1980" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="PTDCUHTUUG9KL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 ## Volunteer
 
 If you would like to Volunteer at the 3rd Annual International Broke Student Film Festival, please fill out the form below and you will be contacted via e-mail.
