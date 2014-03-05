@@ -11,11 +11,6 @@ published: true
 
 The Broke Student Film Festival does not exist to make money. We exist only to showcase great student films! It is only with your generous contributions and support that we can continue to improve and expand.
 
-## Volunteer
-
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGtDWU1YUzk5RVZsRXV1MlA4ck1Gb2c6MA" class="row col-sm-12" height="970" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-
 ## Sponsor
 
 If you would like to make a contribution to help support the Broke Student Film Festival, [please click here to proceed to PayPal.](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=GPS-hNHH3E7z0RmV6RKmZK0DJEpptRwMpDJZTmg4qiYKzSZKGoCrPPewEPy&dispatch=5885d80a13c0db1f8e263663d3faee8d8cdcf517b037b45098186f8dfd405740 "BSFF Donations")
@@ -23,3 +18,9 @@ If you would like to make a contribution to help support the Broke Student Film 
 If you would like more information regarding your contribution and how it will go toward enriching and expanding the Broke Student Film Festival, please complete the contact form.
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFRqLWdaVnZhVlMyY3VVbUdhb3A1QXc6MA" class="row col-sm-12" height="1980" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+## Volunteer
+
+If you would like to Volunteer at the 3rd Annual International Broke Student Film Festival, please fill out the form below and you will be contacted via e-mail.
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGtDWU1YUzk5RVZsRXV1MlA4ck1Gb2c6MA" class="row col-sm-12" height="970" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
