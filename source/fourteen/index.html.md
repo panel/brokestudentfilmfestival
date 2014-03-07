@@ -13,7 +13,7 @@ _Team Sign ups start January 1st 2014_
 
 
 **1. Time**
-The IBSFF 14-Day Film Challenge will be held on the following dates: March 8th-22nd. Saturday (March 8th)  at 6:00pm - Saturday (March 22nd) 11:59pm (Metro Detroit time)
+The IBSFF 14-Day Film Challenge will be held on the following dates: March 8th-22nd. Saturday (March 8th)  at 7:00pm - Saturday (March 22nd) 11:59pm (Metro Detroit time)
  The participating group/team must complete its work on the film in time to fully and successfully transfer the completed film and and fill out IBSFF Application by the designated time. ONLINE SUBMISSIONS ONLY. Only works that meet the deadline will be officially part of the competition
 
 **2. Creative**
@@ -87,7 +87,7 @@ Teams are encouraged to work with local musicians for music. All music used must
 
 
 **9. Total Running Time**
-Films must be the minimum of 5 minutes in duration, and the maximum of 14 minutes in duration - not including ending credits.  The official running time starts after then required IBSFF slate and ends prior to end credits.  
+Films official running time must be between 1 minute and 7 minutes. The official running time starts after then required IBSFF slate and ends prior to end credits.  
 
 **10. IBSFF Opening Slate**
 Before the finished film begins, the opening slate must read:
