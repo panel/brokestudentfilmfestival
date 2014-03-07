@@ -135,4 +135,34 @@ h1, h2, h3 {
 
 .spacer {
 	margin-top: 2em;
+	clear: both;
+}
+
+.center {
+	text-align: center;
+}
+
+.fixed {
+	position:fixed;
+}
+
+.container {
+	position: relative;
+}
+
+iframe {
+	max-width:100%;
+}
+
+.follower-fixed {
+	position: fixed;
+	top: 0;
+}
+
+.clear {
+	clear:both;
+}
+
+.after-submit {
+	display: none;
 }

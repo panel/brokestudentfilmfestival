@@ -44,8 +44,3 @@
 	window.BSFF = BSFF;
 
 }(window, jQuery));
-
-$(function() {
-	var logo = window.BSFF.logo('#logo', '.logo-panel');
-	logo.bindPanels();
-});
