@@ -122,4 +122,6 @@ Upon entry, all films are screened and approved by the International Broke Stude
 
 ## Application
  
-<iframe src="https://docs.google.com/forms/d/1SD2uOwDDUX7fFhiTXeIMPgcGbf79FwbKoK9W_NRmbMI/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Applications for the BSFF 14-Day Challenge are now closed!  Check out the 14-Day Challenge Screening at Lawrence Technological University on April 6th starting at 2:30pm in the S100 Auditorium.  Tickets are available at the door for a small donation and are always free for students!
+
+Good luck to the 15 teams from around the world that will be participating!
