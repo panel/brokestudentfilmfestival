@@ -26,9 +26,9 @@ published: true
   .row
     .col-sm-8.main-content
       .lead
-      h2
+      %h2
         %strong The BSFF 14-Day Filmmaking Challenge
-      %p
+       %p
           The first ever Broke Student Film Festival %strong 14-Day Challenge
           is off and running!  14 teams from around the world are busy working on short films based on 4 unknown parameters that they received during a live podcast with The Not-So-Cool Kids!
         %p
@@ -53,6 +53,17 @@ published: true
 
       .winners
         = partial 'partials/winners_carousel'
+
+      .fourteen
+        %h3 14-Day Film Challenge
+        %p
+          %strong What do you think you can do in two weeks?
+        %p Students from all over the world will compete to make the best possible team in only fourteen days. At the beginning of the challenge, the teams will be given a common theme to inspire their creative process.
+
+        %p
+          %strong The 14-Day Film Challenge
+          is a fun and rewarding way to test and discover your creative and technical chops.
+          = link_to 'Team sign-ups begin on January 1st!', '/fourteen/'
 
       %hr/
 
