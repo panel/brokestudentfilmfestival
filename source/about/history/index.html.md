@@ -15,12 +15,15 @@ The first beginnings of the Broke Student Film Festival came from our founder, K
 **BSFF 2012 Winners**
 
 
-**Best Editing**
- Disorder
 
 
 **  Best Film | Best Sound |Audience Choice   **
- All in A Days Work
+ All in A Days Work - Michael Hovitch and Steve Weed 
+
+
+**Best Editing**
+ Disorder
+
 
 
 **Best Screenplay**  - #Disconnted - Charles Kennedy
