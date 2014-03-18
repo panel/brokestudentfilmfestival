@@ -21,7 +21,7 @@ Every college experience is enriched by the individuals you encounter along the 
 
 ## **Gold Sponsors**
 ****
-**M-1 Studios |Ferndale ,MI **
+**M-1 Studios |Ferndale ,MI**
 
 Businesses Trust Us For Their Video Content Creation. We provide script-to-screen, cost-effective High-Definition (HD) business video production solutions, with quick turnaround times and final deliverables for online, television or other media formats (iPhone / Android, DVD, Bluray). We serve clients in Michigan and surrounding states. Pre-Production (Screenwriting), Production (On-Location/Studio) and Post-Production (Editing, Voiceover Narration, Animation, Music) needs are all based on your specific project requirements.
 
