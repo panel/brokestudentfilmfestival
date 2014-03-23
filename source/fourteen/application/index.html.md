@@ -79,6 +79,9 @@ A man cares for his dying wife.
 **Vegan Blood - Schoolcraft Video Club - Benjamin Gresko - Schoolcraft College**
 A vampire in love with a vegan finds that his girlfriend is not so perfect.
 
+**Ashitamasen - No Tomorrow - The Wank Police - Zach McLane - Sir Francis Drake High School**
+Charles plans to become Kitch County's next big serial killer. He invites his neighbor Rosemary over for a meal of sushi and gets more than he bargained for. 
+
 ***
 
 **Turn in your film late**
