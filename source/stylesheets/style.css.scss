@@ -166,3 +166,21 @@ iframe {
 .after-submit {
 	display: none;
 }
+
+.schedule table {
+	background: white;
+	border-color: red;
+
+	td[colspan] {
+		text-align: center;
+		font-weight: bold;
+	}
+
+	td[colspan]:hover {
+		background: white;
+	}
+}
+
+.colophon {
+	margin-top: 1em;
+}
