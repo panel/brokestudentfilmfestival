@@ -32,7 +32,7 @@
 			that.$panels.each(function(index, el) {
 				setInterval(function() {
 					_cycleImages($(el));
-				}, _getRandomDuration(2000, 4000));
+				}, _getRandomDuration(4000, 8000));
 			});
 		};
 
