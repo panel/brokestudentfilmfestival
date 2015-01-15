@@ -4,13 +4,11 @@ title: "Application 14 Day Challenge - Broke Student Film Festival"
 published: true
 ---
 
-## Application
+## The 14-Day Challenge
 
-Thank you for your interest in the IBSFF 14-Day Challenge. **Submissions and team sign ups are currently closed.** We will be accepting new teams for next years festival, Janurary 1st, 2015.
+The Inaugural IBSFF 14-Day Challenge was an immense success thanks to all of the stupendously talented student filmmakers who took on the challenge of creating a short film in only two weeks.  In 2015, the 14-Day Challenge will not be curated as part of the Festival in April, but will return as a standalone competition later in the year.  Stay tuned! 
 
-Come and check out this years 14-Day Challenge films April 6th starting at 2:00pm at Lawrence Technological University, MI. 
-
-
+##2014 14-Day Challenge
 
 **Theme:** The Next Big Thing
 
@@ -51,7 +49,7 @@ BKR Films - NorthCentral University
 
 Video Production Club - Schoolcraft 
 
-Ten Arms Productions - Washtenaw Community 
+Ten Arms Productions - Washtenaw Community - **Winner (Audience Choice, Best Film)** 
 
 Omni646 - Thomas Edison State
 
@@ -86,4 +84,3 @@ Charles plans to become Kitch County's next big serial killer. He invites his ne
 
 **Turn in your film late**
 <iframe src="https://docs.google.com/forms/d/11ij7Phy135zcEqbkLtoSAOwAfiK3pRsNmm3Nn705SYs/viewform?embedded=true#start=embed" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
