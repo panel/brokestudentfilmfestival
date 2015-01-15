@@ -27,8 +27,7 @@ Awarded to the most effective, authentic all-around excellent performance by an 
 - **Best Editing 2015**
 Awarded to the film that best expresses its storytelling through thoughtful, creative, disciplined and all-around excellent editing.
 - **Audience Choice 2015**
-Awarded to the film that receives the most votes among audience members present at the screenings of the International Broke Student Film Festival on April 25, 2015. 
-- 
+Awarded to the film that receives the most votes among audience members present at the screenings of the International Broke Student Film Festival on April 25, 2015.
 - **Best International Film 2015**
 - **Best Domestic Film 2015**
 Awarded to the films that are able to bring together the best of everything that a film strives to be in telling a compelling, memorable and all-around powerful story on screen.
