@@ -30,7 +30,7 @@ Awarded to the film that best expresses its storytelling through thoughtful, cre
 Awarded to the film that receives the most votes among audience members present at the screenings of the International Broke Student Film Festival on April 25, 2015. 
 - 
 **Best International Film 2015**
-**Best Domestic Film 2015**
+- **Best Domestic Film 2015**
 Awarded to the films that are able to bring together the best of everything that a film strives to be in telling a compelling, memorable and all-around powerful story on screen.
 
 ##Juried Awards Judged by Video and Film Professionals
