@@ -8,9 +8,6 @@ published: true
 
 Thank you for your interest in the IBSFF 14-Day Challenge. **Submissions and team sign ups are currently closed.** We will be accepting new teams for next years festival, Janurary 1st, 2015.
 
-Come and check out this years 14-Day Challenge films April 6th starting at 2:00pm at Lawrence Technological University, MI. 
-
-
 
 **The following rules apply to each participating group/production team:**
 
