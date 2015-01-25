@@ -10,7 +10,7 @@ RULES AND REGULATIONS
 
 **A) Guidelines**
 
-1. Students must include proof of student status at the time of production (i.e., copy of student ID, transcript, etc.). Please send to Info@brokestudentfilmfestival.com
+1. Students must include proof of student status at the time of production (i.e., copy of student ID, transcript, etc.). Please send to internationalbsff@gmail.com
 2. Films must be completed before the deadline April 5, 2015.
 3. Films previously submitted to the International Broke Student Film Festival are NOT eligible. 
 4. Films must be submitted online via Vimeo or Youtube link or or other file sending service such as Dropbox or WeTransfer.
