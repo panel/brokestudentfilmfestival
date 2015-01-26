@@ -20,7 +20,7 @@ Kat Ruff is an award winning film maker from Lawrence Technological University. 
 
 
 Adam studied Digital Video Production at Washtenaw Community College before taking a job at TVS Communication Solutions in Troy, MI as Motion Graphics Designer.  He now teaches as part of the Digital Media Arts program at the Specs Howard School of Media Arts. He considers himself chronically creative and spent most of his life in search of an outlet that satisfied his imagination. After trying drawing, writing, acting and a host of other creative outlet, Adam found his way into the Digital Video Program at WCC and the rest is history.
-Adam has competed in 3 national 48 Hour Film competitions in the Detroit area, including Persephone, which was screened at the Inaugural Broke Student Film Festival. For more on Adam’s work, his motion reel can be found on Vimeo.
+Adam has competed in 4 national 48 Hour Film competitions in the Detroit area, including Persephone, which was screened at the Inaugural Broke Student Film Festival. For more on Adam’s work, his motion reel can be found on Vimeo.
 
 
 
