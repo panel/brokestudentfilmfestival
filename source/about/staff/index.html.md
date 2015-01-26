@@ -29,7 +29,7 @@ Adam has competed in 4 national 48 Hour Film competitions in the Detroit area, i
 ## **Jody Gaber**
 
 ###_Member of the Board of Directors_
-##_Director, Department of Media Communications, Lawrence Technological University_
+**Director, Department of Media Communications, Lawrence Technological University**
 
 Jody Gaber is the Director of the Media Communication Program at Lawrence Technological University.
 She brings over 20 years of experience to this position having worked in Los Angeles at feature film and animation studios including Warner Brothers, Paramount Pictures, and Walt Disney Feature Animation.
