@@ -30,7 +30,7 @@ The first beginnings of the Broke Student Film Festival came from our founder, K
 
 
 **Best Cinematography** 
-Perphone - Adam Nelson
+Persephone - Adam Nelson
 
 
 
