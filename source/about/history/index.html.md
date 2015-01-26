@@ -9,7 +9,7 @@ published: true
 ****
 _**1st Annual Broke Student Film Festival | 2012 **_
 
-The first beginnings of the Broke Student Film Festival came from our founder, Kathryn Ruff. At the time Lawrence Technological University did not feature a film festival, so she set out to create one. With the help of the Dean of Students, Kevin Finn and Jody Gaber ,Director of Media Communication, Kathryn pulled the first film festival together in little over a month. Featureing only 12 films, 4 of them her own, the first BSFF started. The biggest winner was the filmmakers, now they have a wonderful and safe environment for their work to be screened. 
+The first beginnings of the Broke Student Film Festival came from our founder, Kathryn Ruff. At the time Lawrence Technological University did not feature a film festival, so she set out to create one. With the help of the Dean of Students, Kevin Finn and Jody Gaber ,Director of Media Communication, Kathryn pulled the first film festival together in little over a month. Featuring only 12 films, 4 of them her own, the first BSFF started. The biggest winner was the filmmakers, now they have a wonderful and safe environment for their work to be screened. 
 
 **BSFF 2012 Winners**
 
