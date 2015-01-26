@@ -25,7 +25,7 @@ The first beginnings of the Broke Student Film Festival came from our founder, K
 
 
 
-**Best Screenplay**  - #Disconnected - Charles Kennedy
+**Best Screenplay**  - #Disconnected - Charles Kennedy Jr.
 
 
 
