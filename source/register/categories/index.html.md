@@ -39,22 +39,6 @@ Awarded to the film that is able to bring together the best of everything that a
 
 
 
-_**14- Day Challenge Categories**_
-
-
-- **Best Overall Film 2014**
-Awarded to the film that is able to bring all of the elements together in the best way possible. 
-- **Audience Choice 2014**
-Awarded to the film that have the most votes during the screening, April 6th 2014
-
-
-
-
-
-
-
-
-
 _**Exhibition Student Films**_
 
 Category only applies for student films that do not meet the requirements met by the Selection committee. Films are for exhibition. Screening will not be for all ages. Rating may vary. 
