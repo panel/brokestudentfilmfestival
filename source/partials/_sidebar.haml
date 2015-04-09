@@ -15,29 +15,6 @@
 .social
   = partial 'partials/social'
 
-.call-for-entries.panel.panel-default
-  .panel-heading
-    %h3.panel-title
-      Call For Entries
-  .panel-body
-    %p
-      Call for entries starts January 15th, 2015.
-      %strong The Broke Student Film Festival
-      will be focusing on Films in Competition in 2015:
-    %ul
-      = link_to 'Click here to see what category is right for you!', '/register/categories/'
+%hr
 
-.tshirt.panel.panel-default
-  .panel-heading
-    %h3.panel-title
-      Get The BSFF Shirt
-  .panel-body
-    %p
-      Get the must have fashion accessory for every broke film maker!
-    = image_tag 'shirt.png'
-    %p
-      %small
-        All shirts hand printed by
-        = link_to 'Triple Threads', 'http://triple-thread.com/', :target => '_blank'
-        in Clawson, Michigan.
-    = partial 'partials/shirt'
+= image_tag 'BSFFposter.png'
