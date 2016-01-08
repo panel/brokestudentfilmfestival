@@ -4,6 +4,7 @@ title: "Rules & Regulations - Broke Student Film Festival"
 published: true
 ---
 
+
 ## Rules & Regulations
 
 RULES AND REGULATIONS
@@ -11,7 +12,7 @@ RULES AND REGULATIONS
 **A) Guidelines**
 
 1. Students must include proof of student status at the time of production (i.e., copy of student ID, transcript, etc.). Please send to internationalbsff@gmail.com
-2. Films must be completed before the deadline April 5, 2015.
+2. Films must be completed before the deadline March 11, 2016.
 3. Films previously submitted to the International Broke Student Film Festival are NOT eligible. 
 4. Films must be submitted online via Vimeo or Youtube link or or other file sending service such as Dropbox or WeTransfer.
 5. Entrant confirms and warrants required legal authority to submit the entry into the Festival and to use all music, images, and content in the entry per the Media Rights Release Section available on the Submission Form.  
@@ -29,11 +30,11 @@ RULES AND REGULATIONS
  
 **B) Deadlines**
 	
-Entries must be submitted online by April 5, 2015. Submissions received after this date will not be eligible for juried awards. 	
+Entries must be submitted online by March 11, 2016. Submissions received after this date will not be eligible for juried awards. 	
 
 **C) Judging & Selection**
 		
 Documentary, Short Subject, and Student Films are selected for Festival presentation by the Broke Student Film Festival Selection Committee. If a film is selected for screening, the Festival office will contact the entrant by phone or email.
-All other competitive film categories are judged before the Festival. All entrants will be notified at the official screening, April 25th 2015. All prizes and awards are final. 
+All other competitive film categories are judged before the Festival. All entrants will be notified at the official screening, April 2nd, 2016. All prizes and awards are final. 
 
 Upon entry, all films are screened and approved by the International Broke Student Film Festival Selection Committee. Films are then screened by industry professionals in the International Broke Student Film Festival Judges screening at Lawrence Technical University in Southfield, Michigan. Films will be judged based on the following criteria: Cinematography, Screenwriting, Sound, Acting, and Originality. The ballots are then counted as a general score per judge and then the overall score is met. Some films may score the same overall score. In this instance, both films win the award. (IBSFF 2013 had two Best Screenwriting awards) All decisions are final.
