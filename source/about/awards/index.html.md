@@ -4,6 +4,7 @@ title: "Juried Awards - Broke Student Film Festival"
 published: true
 ---
 
+
 ## Categories
 
 
@@ -16,20 +17,20 @@ published: true
 
 _**Student Films**_
 
-- **Best Cinematography 2015**
+- **Best Cinematography 2016**
 Awarded to the film that best exhibits creativity, sophistication and all-around excellence in storytelling through the use of shot, composition, lighting and all-around use of the camera.
-- **Best Screenwriting 2015**
+- **Best Screenwriting 2016**
 Awarded to the film that best expresses its storytelling though the element of writing.
-- **Best Sound 2015**
+- **Best Sound 2016**
 Awarded to the film that best expresses itself through thoughtful, evocative and all-around excellent sound design.
-- **Best Acting 2015**
+- **Best Acting 2016**
 Awarded to the most effective, authentic all-around excellent performance by an actor or actress in any role in any submitted film.
-- **Best Editing 2015**
+- **Best Editing 2016**
 Awarded to the film that best expresses its storytelling through thoughtful, creative, disciplined and all-around excellent editing.
-- **Audience Choice 2015**
+- **Audience Choice 2016**
 Awarded to the film that receives the most votes among audience members present at the screenings of the International Broke Student Film Festival on April 25, 2015.
-- **Best International Film 2015**
-- **Best Domestic Film 2015**
+- **Best International Film 2016**
+- **Best Domestic Film 2016**
 Awarded to the films that are able to bring together the best of everything that a film strives to be in telling a compelling, memorable and all-around powerful story on screen.
 
 ##Juried Awards Judged by Video and Film Professionals
